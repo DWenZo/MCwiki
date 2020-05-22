@@ -8,3 +8,4 @@ Minecraft installation wiki & Operation and maintenance script
 ## Install minecraft
 
 ## Script manual
+
